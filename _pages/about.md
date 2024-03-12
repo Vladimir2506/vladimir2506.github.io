@@ -17,42 +17,183 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is **Zhuofan Xia** (**"夏 卓凡"** in Chinese). I'm currently a fourth-year Ph.D. candidate in Control Science and Engineering at Department of Automation, Tsinghua University, advised by Prof. [Gao Huang](https://www.gaohuang.net/) and Prof. [Shiji Song](https://www.au.tsinghua.edu.cn/info/1075/3206.htm). Before that, I did my B.Eng. in Automation at Tsinghua University in 2020. My research focuses on deep learning and computer vision, particularly in the Vision Transformers (2D / 3D), dynamic neural networks, and multimodal large language models. Currently, I am focusing on the topics related to dyanmic multimodal large language models. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Download my [C.V.](misc\CV_XZF.pdf) (possibly outdated) here.
 
 
-# 🔥 News
+# 📖 Education
+- *2020.08 - 2026.06 (Expected)*, 🧑‍🎓 Ph.D. in Control Science and Engineering, Tsinghua University, Beijing, China.
+  - Advised by Prof. [Gao Huang](https://www.gaohuang.net/) and Prof. [Shiji Song](https://www.au.tsinghua.edu.cn/info/1075/3206.htm).
+- *2016.08 - 2020.06*, 🧑‍🎓 B.Eng. in Automation, Tsinghua University, Beijing, China.
+<!-- - *2010.09 - 2016.06*, high school diploma (junior & senior), Yaohua High School, Tianjin, China. -->
+
+<!-- # 🔥 News                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Selected Publications <a href='https://scholar.google.com/citations?user=m2M6b58AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<font size=1>*: equal contribution, †: corresponding author.</font>
+
+For full publication list, please check my [Google Scholar](https://scholar.google.com/citations?user=m2M6b58AAAAJ) profile.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/gsva_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[GSVA: Generalized Segmentation via Multimodal Large Language Models](https://arxiv.org/pdf/2312.10103.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Zhuofan Xia\***, Dongchen Han\*, Yizeng Han, Xuran Pan, Shiji Song, Gao Huang†
+
+<!-- In this paper, we extend Segmentation Large Multimodal Model to Generalized Referring Expression Segmentation (GRES) problems via multiple weight-sharing \[SEG\] tokens for multiple referred targets and \[REJ\] tokens for empty referents. -->
+
+[\[arXiv\]](https://arxiv.org/abs/2312.10103) [\[GitHub\]](https://github.com/LeapLabTHU/GSVA)
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/agent_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Agent Attention: On the Integration of Softmax and Linear Attention](https://arxiv.org/pdf/2312.08874.pdf)
+
+*Preprint*
+
+Dongchen Han\*, Tianzhu Ye\*, Yizeng Han, **Zhuofan Xia**, Shiji Song, Gao Huang†
+
+<!-- In this paper, we propose a novel attention paradigm, Agent Attention, enhancing linear attention mechanism with both efficiency and expressiveness. Notably, agent attention has shown remarkable performance in high-resolution scenarios for both image recognition and generation tasks. -->
+
+[\[arXiv\]](https://arxiv.org/abs/2312.08874) [\[GitHub\]](https://github.com/LeapLabTHU/Agent-Attention)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/datpp_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DAT++: Spatially Dynamic Vision Transformer with Deformable Attention](https://arxiv.org/pdf/2309.01430.pdf)
+
+*Preprint*
+
+**Zhuofan Xia**, Xuran Pan, Shiji Song, Li Erran Li, Gao Huang†
+
+<!-- In this paper, we extend Deformable Attention Transformer with a new designed fully deformable attention architecture to the state-of-the-art results. -->
+
+[\[arXiv\]](https://arxiv.org/abs/2309.01430) [\[GitHub\]](https://github.com/LeapLabTHU/DAT)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/arc_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Rotated Convolution for Rotated Object Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Pu_Adaptive_Rotated_Convolution_for_Rotated_Object_Detection_ICCV_2023_paper.pdf)
+
+*IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023*
+
+Yifan Pu\*, Yiru Wang\*, **Zhuofan Xia**, Yizeng Han, Yulin Wang, Weihao Gan, Zidong Wang, Shiji Song, Gao Huang†
+
+<!-- In this paper, we propose Adaptive Rotated Convolution (ARC) for rotated object detection. The convolution kernels of ARC rotate adaptively to fit the orientation of arbitarily rotated objects in the images. The ARC module can work with various CNN backbones. Our work achievs SOTA performance on DOTA. -->
+
+[\[arXiv\]](https://arxiv.org/abs/2303.07820) [\[GitHub\]](https://github.com/LeapLabTHU/ARC)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/slide_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention
+](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Slide-Transformer_Hierarchical_Vision_Transformer_With_Local_Self-Attention_CVPR_2023_paper.pdf)
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023*
+
+Xuran Pan\* Tianzhu Ye\*, **Zhuofan Xia**, Shiji Song, Gao Huang†
+
+<!-- In this paper, we propose a novel local attention named Slide Attention leveraging common depthwise convolutions to achieve local attention in high efficiency, flexibility and generalizability. We re-interpret DWC to support efficient spatial shift and relax the parameters reparameterize deformed shifting local attention to enhance feature flexibility. -->
+
+[\[arXiv\]](https://arxiv.org/abs/2304.04237) [\[GitHub\]](https://github.com/LeapLabTHU/Slide-Transformer)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/budget_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Budgeted Training for Vision Transformer](https://openreview.net/pdf?id=sVzBN-DlJRi)
+
+*International Conference on Learning Representations (**ICLR**), 2023*
+
+**Zhuofan Xia\***, Xuran Pan\*, Xuan Jin\*, Yuan He, Hui Xue, Shiji Song, Gao Huang†
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/dat_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vision Transformer with Deformable Attention](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.pdf)
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022*
+
+<span style="color:red;">**Best Paper Finalists (0.4%)**</span>
+
+**Zhuofan Xia\***, Xuran Pan\*, Shiji Song, Li Erran Li, Gao Huang†
+
+<!-- In this paper, we extend Deformable Attention Transformer with a new designed fully deformable attention architecture to the state-of-the-art results. -->
+
+[\[arXiv\]](https://arxiv.org/abs/2201.00520) [\[GitHub\]](https://github.com/LeapLabTHU/DAT)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/pointformer_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D Object Detection with Pointformer](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_3D_Object_Detection_With_Pointformer_CVPR_2021_paper.pdf)
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021*
+
+Xuran Pan\*, **Zhuofan Xia\***, Shiji Song, Li Erran Li, Gao Huang†
+
+<!-- In this paper, we extend Deformable Attention Transformer with a new designed fully deformable attention architecture to the state-of-the-art results. -->
+
+[\[arXiv\]](https://arxiv.org/abs/2201.00520) [\[GitHub\]](https://github.com/LeapLabTHU/DAT)
+
+</div>
+</div>
+
+<!-- ## Others -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## During PhD
+
+- *Fall 2023*, **Friend of Tsinghua – Ubiquant Scholarship of Tsinghua University**, on Comprehensive excellence.
+- *Fall 2022*, **Friend of Tsinghua – Hefei Talent Scholarship of Tsinghua University**, on Comprehensive excellence.
+- *Fall 2021*, **Friend of Tsinghua – Samsung Scholarship of Tsinghua University**, on Comprehensive excellence.
+
+## During Undergraduate
+
+- *Fall 2019*, **Friend of Tsinghua – Evergrand Scholarship of Tsinghua University** on Academic excellence.
+- *Fall 2019*, **Outstanding Social Work Scholarship of Tsinghua University** on Outstanding social work.
+- *Fall 2018*, **Friend of Tsinghua – Zhang Ronghua Scholarship of Tsinghua University** on Academic excellence.
+- *Fall 2018*, **Outstanding Social Work Scholarship of Tsinghua University** on Outstanding social work.
+- *Fall 2017*, **Academic Excellence Scholarship of Tsinghua University** on Academic excellence.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+- *2022.08, Tianjin*, **VALSE 2022 Student Workshop**, talk on *Vision Transformer with Deformable Attention*. 
+
+- *2022.07, Online*, **AI Time** [\[video\]](https://www.bilibili.com/video/BV1LB4y1e7kT/?share_source=copy_web), talk on *Vision Transformer with Deformable Attention*.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.07 - 2019.12*, Sensetime Research, Beijing, China.
+- *2021.07 - 2023.04*, Alibaba Group, Beijing, China.
+
+
+<div><font size=1><span style="color:lightgray;">Website Template: <a href="https://rayeren.github.io/acad-homepage.github.io/">Acad-Homepage</a>. Special thanks to the <a href="https://rayeren.github.io/">template author</a>.</span>
+</font></div>

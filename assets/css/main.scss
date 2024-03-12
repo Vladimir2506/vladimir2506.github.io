@@ -104,6 +104,18 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: #1702b8ad;
     font-size: .8em;
+}
+
+
+/* webkit, opera, IE9 （谷歌浏览器）*/
+::selection { 
+    background:aliceblue;
+    color: black;
+}
+/* mozilla firefox（火狐浏览器） */
+::-moz-selection { 
+    background:aliceblue;
+    color: black;
 }
