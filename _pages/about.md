@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Zhuofan Xia** (**"夏 卓凡"** in Chinese). I'm currently a fourth-year Ph.D. candidate in Control Science and Engineering at Department of Automation, Tsinghua University, advised by Prof. [Gao Huang](https://www.gaohuang.net/) and Prof. [Shiji Song](https://www.au.tsinghua.edu.cn/info/1075/3206.htm). Before that, I did my B.Eng. in Automation at Tsinghua University in 2020. My research focuses on deep learning and computer vision, particularly in the Vision Transformers (2D / 3D), dynamic neural networks, and multimodal large language models. Currently, I am focusing on the topics related to dyanmic multimodal large language models. 
+My name is **Zhuofan Xia** (**"夏卓凡"** in Chinese). I'm currently a 4th-year Ph.D. candidate at Department of Automation, Tsinghua University, advised by Prof. [Gao Huang](https://www.gaohuang.net/) and Prof. [Shiji Song](https://www.au.tsinghua.edu.cn/info/1075/3206.htm). Before that, I did my bachelor degree in Automation at Tsinghua University in 2020. My research mainly focuses on deep learning on computer vision, and multimodal learning. Specifically, my research interests lie in the Vision Transformers (2D / 3D), dynamic neural architectures, and large multimodal models. Currently, I am focusing on the topics related to dynamic and efficient large multimodal models.
 
 Download my [C.V.](misc\CV_XZF.pdf) (possibly outdated) here.
 
