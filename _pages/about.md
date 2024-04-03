@@ -184,7 +184,14 @@ Xuran Pan\*, **Zhuofan Xia\***, Shiji Song, Li Erran Li, Gao Huang†
 - *Fall 2018*, **Outstanding Social Work Scholarship of Tsinghua University** on Outstanding social work.
 - *Fall 2017*, **Academic Excellence Scholarship of Tsinghua University** on Academic excellence.
 
+# 🎓 Academic Services
+
+- Reviewer for ICCV(2023), CVPR(2024), ECCV(2024).
+- Reviewer for IJCV, IEEE TCSVT.
+
 # 💬 Invited Talks
+
+- *2024.04, Online*, **AI Time** [\[video\]](https://www.bilibili.com/video/BV1sx421U7rk/?share_source=copy_web) talk on *GSVA: Generalized Segmentation via Multimodal Large Language Models*.
 
 - *2022.08, Tianjin*, **VALSE 2022 Student Workshop**, talk on *Vision Transformer with Deformable Attention*. 
 
