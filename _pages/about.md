@@ -38,6 +38,7 @@ Download my [C.V.](misc\CV_XZF.pdf) (possibly outdated) here.
 
 For full publication list, please check my [Google Scholar](https://scholar.google.com/citations?user=m2M6b58AAAAJ) profile.
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/gsva_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -166,6 +167,18 @@ Xuran Pan\*, **Zhuofan Xia\***, Shiji Song, Li Erran Li, Gao Huang†
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/mlla_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Demystify Mamba in Vision: A Linear Attention Perspective](https://arxiv.org/pdf/2405.16605)
+
+Dongchen Han, Ziyi Wang, **Zhuofan Xia**, Yizeng Han, Yifan Pu, Chunjiang Ge, Jun Song, Shiji Song, Bo Zheng, Gao Huang†
+
+[\[arXiv\]](https://arxiv.org/abs/2405.16605) [\[GitHub\]](https://github.com/LeapLabTHU/MLLA)
+
+</div>
+</div>
+
 <!-- ## Others -->
 
 # 🎖 Honors and Awards
@@ -198,8 +211,10 @@ Xuran Pan\*, **Zhuofan Xia\***, Shiji Song, Li Erran Li, Gao Huang†
 - *2022.07, Online*, **AI Time** [\[video\]](https://www.bilibili.com/video/BV1LB4y1e7kT/?share_source=copy_web), talk on *Vision Transformer with Deformable Attention*.
 
 # 💻 Internships
+
 - *2019.07 - 2019.12*, Sensetime Research, Beijing, China.
 - *2021.07 - 2023.04*, Alibaba Group, Beijing, China.
+- *2024.07 - 2024.09*, Tencent, Beijing, China.
 
 
 <div><font size=1><span style="color:lightgray;">Website Template: <a href="https://rayeren.github.io/acad-homepage.github.io/">Acad-Homepage</a>. Special thanks to the <a href="https://rayeren.github.io/">template author</a>.</span>
