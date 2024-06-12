@@ -172,6 +172,8 @@ Xuran Pan\*, **Zhuofan Xia\***, Shiji Song, Li Erran Li, Gao Huang†
 
 [Demystify Mamba in Vision: A Linear Attention Perspective](https://arxiv.org/pdf/2405.16605)
 
+*Preprint*
+
 Dongchen Han, Ziyi Wang, **Zhuofan Xia**, Yizeng Han, Yifan Pu, Chunjiang Ge, Jun Song, Shiji Song, Bo Zheng, Gao Huang†
 
 [\[arXiv\]](https://arxiv.org/abs/2405.16605) [\[GitHub\]](https://github.com/LeapLabTHU/MLLA)
@@ -199,7 +201,7 @@ Dongchen Han, Ziyi Wang, **Zhuofan Xia**, Yizeng Han, Yifan Pu, Chunjiang Ge, Ju
 
 # 🎓 Academic Services
 
-- Reviewer for ICCV(2023), CVPR(2024), ECCV(2024).
+- Reviewer for ICCV(2023), CVPR(2024), ECCV(2024), NeurIPS(2024).
 - Reviewer for IJCV, IEEE TCSVT.
 
 # 💬 Invited Talks
