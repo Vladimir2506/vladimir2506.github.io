@@ -216,7 +216,8 @@ Dongchen Han, Ziyi Wang, **Zhuofan Xia**, Yizeng Han, Yifan Pu, Chunjiang Ge, Ju
 
 - *2019.07 - 2019.12*, Sensetime Research, Beijing, China.
 - *2021.07 - 2023.04*, Alibaba Group, Beijing, China.
-- *2024.07 - 2024.09*, Tencent, Beijing, China.
+- *2024.07 - 2024.08*, Tencent, Shenzhen, China.
+- *2024.08 - Now*, NIO Inc., Beijing, China.
 
 
 <div><font size=1><span style="color:lightgray;">Website Template: <a href="https://rayeren.github.io/acad-homepage.github.io/">Acad-Homepage</a>. Special thanks to the <a href="https://rayeren.github.io/">template author</a>.</span>
