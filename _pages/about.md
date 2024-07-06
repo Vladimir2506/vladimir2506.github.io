@@ -39,28 +39,12 @@ Download my [C.V.](misc\CV_XZF.pdf) (possibly outdated) here.
 For full publication list, please check my [Google Scholar](https://scholar.google.com/citations?user=m2M6b58AAAAJ) profile.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/gsva_paper.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GSVA: Generalized Segmentation via Multimodal Large Language Models](https://arxiv.org/pdf/2312.10103.pdf)
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024*
-
-**Zhuofan Xia\***, Dongchen Han\*, Yizeng Han, Xuran Pan, Shiji Song, Gao Huang†
-
-<!-- In this paper, we extend Segmentation Large Multimodal Model to Generalized Referring Expression Segmentation (GRES) problems via multiple weight-sharing \[SEG\] tokens for multiple referred targets and \[REJ\] tokens for empty referents. -->
-
-[\[arXiv\]](https://arxiv.org/abs/2312.10103) [\[GitHub\]](https://github.com/LeapLabTHU/GSVA)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/agent_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/agent_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Agent Attention: On the Integration of Softmax and Linear Attention](https://arxiv.org/pdf/2312.08874.pdf)
 
-*Preprint*
+*European Conference on Computer Vision (**ECCV**), 2024*
 
 Dongchen Han\*, Tianzhu Ye\*, Yizeng Han, **Zhuofan Xia**, Shiji Song, Gao Huang†
 
@@ -70,6 +54,22 @@ Dongchen Han\*, Tianzhu Ye\*, Yizeng Han, **Zhuofan Xia**, Shiji Song, Gao Huang
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/gsva_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GSVA: Generalized Segmentation via Multimodal Large Language Models](https://arxiv.org/pdf/2312.10103.pdf)
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024*
+
+**Zhuofan Xia\***, Dongchen Han\*, Yizeng Han, Xuran Pan, Shiji Song, Gao Huang†
+
+[\[arXiv\]](https://arxiv.org/abs/2312.10103) [\[GitHub\]](https://github.com/LeapLabTHU/GSVA)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/datpp_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
