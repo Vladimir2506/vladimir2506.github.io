@@ -48,7 +48,6 @@ For full publication list, please check my [Google Scholar](https://scholar.goog
 
 Dongchen Han\*, Tianzhu Ye\*, Yizeng Han, **Zhuofan Xia**, Shiji Song, Gao Huang†
 
-<!-- In this paper, we propose a novel attention paradigm, Agent Attention, enhancing linear attention mechanism with both efficiency and expressiveness. Notably, agent attention has shown remarkable performance in high-resolution scenarios for both image recognition and generation tasks. -->
 
 [\[arXiv\]](https://arxiv.org/abs/2312.08874) [\[GitHub\]](https://github.com/LeapLabTHU/Agent-Attention)
 
@@ -80,7 +79,6 @@ Dongchen Han\*, Tianzhu Ye\*, Yizeng Han, **Zhuofan Xia**, Shiji Song, Gao Huang
 
 **Zhuofan Xia**, Xuran Pan, Shiji Song, Li Erran Li, Gao Huang†
 
-<!-- In this paper, we extend Deformable Attention Transformer with a new designed fully deformable attention architecture to the state-of-the-art results. -->
 
 [\[arXiv\]](https://arxiv.org/abs/2309.01430) [\[GitHub\]](https://github.com/LeapLabTHU/DAT)
 
@@ -97,7 +95,6 @@ Dongchen Han\*, Tianzhu Ye\*, Yizeng Han, **Zhuofan Xia**, Shiji Song, Gao Huang
 
 Yifan Pu\*, Yiru Wang\*, **Zhuofan Xia**, Yizeng Han, Yulin Wang, Weihao Gan, Zidong Wang, Shiji Song, Gao Huang†
 
-<!-- In this paper, we propose Adaptive Rotated Convolution (ARC) for rotated object detection. The convolution kernels of ARC rotate adaptively to fit the orientation of arbitarily rotated objects in the images. The ARC module can work with various CNN backbones. Our work achievs SOTA performance on DOTA. -->
 
 [\[arXiv\]](https://arxiv.org/abs/2303.07820) [\[GitHub\]](https://github.com/LeapLabTHU/ARC)
 
@@ -114,7 +111,6 @@ Yifan Pu\*, Yiru Wang\*, **Zhuofan Xia**, Yizeng Han, Yulin Wang, Weihao Gan, Zi
 
 Xuran Pan\* Tianzhu Ye\*, **Zhuofan Xia**, Shiji Song, Gao Huang†
 
-<!-- In this paper, we propose a novel local attention named Slide Attention leveraging common depthwise convolutions to achieve local attention in high efficiency, flexibility and generalizability. We re-interpret DWC to support efficient spatial shift and relax the parameters reparameterize deformed shifting local attention to enhance feature flexibility. -->
 
 [\[arXiv\]](https://arxiv.org/abs/2304.04237) [\[GitHub\]](https://github.com/LeapLabTHU/Slide-Transformer)
 
@@ -144,7 +140,6 @@ Xuran Pan\* Tianzhu Ye\*, **Zhuofan Xia**, Shiji Song, Gao Huang†
 
 **Zhuofan Xia\***, Xuran Pan\*, Shiji Song, Li Erran Li, Gao Huang†
 
-<!-- In this paper, we extend Deformable Attention Transformer with a new designed fully deformable attention architecture to the state-of-the-art results. -->
 
 [\[arXiv\]](https://arxiv.org/abs/2201.00520) [\[GitHub\]](https://github.com/LeapLabTHU/DAT)
 
@@ -160,7 +155,6 @@ Xuran Pan\* Tianzhu Ye\*, **Zhuofan Xia**, Shiji Song, Gao Huang†
 
 Xuran Pan\*, **Zhuofan Xia\***, Shiji Song, Li Erran Li, Gao Huang†
 
-<!-- In this paper, we extend Deformable Attention Transformer with a new designed fully deformable attention architecture to the state-of-the-art results. -->
 
 [\[arXiv\]](https://arxiv.org/abs/2201.00520) [\[GitHub\]](https://github.com/LeapLabTHU/DAT)
 
@@ -201,7 +195,7 @@ Dongchen Han, Ziyi Wang, **Zhuofan Xia**, Yizeng Han, Yifan Pu, Chunjiang Ge, Ju
 
 # 🎓 Academic Services
 
-- Reviewer for ICCV(2023), CVPR(2024), ECCV(2024), NeurIPS(2024).
+- Reviewer for ICCV(2023), CVPR(2024), ECCV(2024), NeurIPS(2024), ICLR(2025).
 - Reviewer for IJCV, IEEE TCSVT.
 
 # 💬 Invited Talks
@@ -212,12 +206,12 @@ Dongchen Han, Ziyi Wang, **Zhuofan Xia**, Yizeng Han, Yifan Pu, Chunjiang Ge, Ju
 
 - *2022.07, Online*, **AI Time** [\[video\]](https://www.bilibili.com/video/BV1LB4y1e7kT/?share_source=copy_web), talk on *Vision Transformer with Deformable Attention*.
 
-# 💻 Internships
+<!-- # 💻 Internships
 
 - *2019.07 - 2019.12*, Sensetime Research, Beijing, China.
 - *2021.07 - 2023.04*, Alibaba Group, Beijing, China.
 - *2024.07 - 2024.08*, Tencent, Shenzhen, China.
-- *2024.08 - Now*, NIO Inc., Beijing, China.
+- *2024.08 - Now*, NIO Inc., Beijing, China. -->
 
 
 <div><font size=1><span style="color:lightgray;">Website Template: <a href="https://rayeren.github.io/acad-homepage.github.io/">Acad-Homepage</a>. Special thanks to the <a href="https://rayeren.github.io/">template author</a>.</span>
